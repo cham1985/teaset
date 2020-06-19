@@ -15,14 +15,14 @@ export default class SearchInput extends Component {
     style: ViewPropTypes.style,
     inputStyle: TextInput.propTypes.style,
     iconSize: PropTypes.number,
-    disabled: PropTypes.bool,
+    disabled: PropTypes.bool,inputContainer: ViewPropTypes.style,
   };
 
   static defaultProps = {
     ...TextInput.defaultProps,
-    disabled: false,
+    disabled: false,placeholderContainer:{},
     underlineColorAndroid: 'rgba(0, 0, 0, 0)',
-  };  
+  };
 
   constructor(props) {
     super(props);
@@ -93,7 +93,7 @@ export default class SearchInput extends Component {
   }
 
   render() {
-    let {style, children, inputStyle, iconSize, disabled, value, placeholder, placeholderTextColor, selectionColor, pointerEvents, onBlur, onFocus, onChangeText, ...others} = this.props;
+    let {style, children, inputStyle, iconSize, disabled, value, placeholder, placeholderTextColor, selectionColor, pointerEvents, onBlur, onFocus, onChangeText,inputContainer={}, ...others} = this.props;
 
     style = [{
       backgroundColor: Theme.siColor,
@@ -128,14 +128,14 @@ export default class SearchInput extends Component {
 
     return (
       <View style={style} pointerEvents={pointerEvents}>
-        <View style={styles.container} onLayout={e => this.onContainerLayout(e)}>
+        <View style={[styles.container,inputContainer]} onLayout={e => this.onContainerLayout(e)}>
           <View style={this.state.editing || value ? {width: this.state.width} : null}>
-            <View style={styles.placeholderContainer} onLayout={e => this.onPlaceholderLayout(e)}>
+            <View style={[styles.placeholderContainer]} onLayout={e => this.onPlaceholderLayout(e)}>
               <View style={{paddingLeft: iconSize * 0.5, alignItems: 'center'}}>
                 <Image
                   style={{width: iconSize, height: iconSize, tintColor: placeholderTextColor}}
                   source={require('../../icons/search.png')}
-                  />
+                />
               </View>
               <Text style={{paddingLeft: paddingSize, color: placeholderTextColor, fontSize: fs.fontSize}}>
                 {value ? null : placeholder}
@@ -153,7 +153,7 @@ export default class SearchInput extends Component {
             selectionColor={this.state.selectionColor ? this.state.selectionColor : selectionColor}
             {...others}
             ref='textInput'
-            />
+          />
         </View>
       </View>
     );
