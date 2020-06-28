@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2aba4e-c74c-4992-be03-83e92d5a8a85" name="Default Changelist" comment="" />
+    <list default="true" id="cb2aba4e-c74c-4992-be03-83e92d5a8a85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SearchInput/SearchInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/SearchInput/SearchInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +73,10 @@
       <workItem from="1591758630247" duration="162000" />
       <workItem from="1592533283245" duration="635000" />
       <workItem from="1592533928221" duration="326000" />
+      <workItem from="1592912185647" duration="1097000" />
+      <workItem from="1592913410545" duration="613000" />
+      <workItem from="1592914595625" duration="27000" />
+      <workItem from="1593322977563" duration="1145000" />
     </task>
     <servers />
   </component>
@@ -76,14 +84,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1526" height="272" key="GridCell.Tab.0.bottom" timestamp="1592914451260">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state width="1526" height="272" key="GridCell.Tab.0.bottom/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451260" />
+    <state width="1526" height="272" key="GridCell.Tab.0.center" timestamp="1592914451260">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state width="1526" height="272" key="GridCell.Tab.0.center/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451260" />
+    <state width="1526" height="272" key="GridCell.Tab.0.left" timestamp="1592914451259">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state width="1526" height="272" key="GridCell.Tab.0.left/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451259" />
+    <state width="1526" height="272" key="GridCell.Tab.0.right" timestamp="1592914451260">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state width="1526" height="272" key="GridCell.Tab.0.right/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451260" />
     <state x="253" y="23" width="1315" height="875" key="find.popup" timestamp="1591605330574">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="253" y="23" width="1315" height="875" key="find.popup/45.23.1635.1027@45.23.1635.1027" timestamp="1591605330574" />
-    <state x="551" y="250" width="671" height="676" key="search.everywhere.popup" timestamp="1592533932994">
-      <screen x="45" y="23" width="1635" height="1027" />
+    <state x="552" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1593330091561">
+      <screen x="46" y="23" width="1634" height="1027" />
     </state>
     <state x="551" y="250" width="671" height="676" key="search.everywhere.popup/45.23.1635.1027@45.23.1635.1027" timestamp="1592533932994" />
-    <state x="552" y="250" width="670" height="676" key="search.everywhere.popup/46.23.1634.1027@46.23.1634.1027" timestamp="1589286873989" />
+    <state x="552" y="250" width="670" height="676" key="search.everywhere.popup/46.23.1634.1027@46.23.1634.1027" timestamp="1593330091561" />
   </component>
 </project>
