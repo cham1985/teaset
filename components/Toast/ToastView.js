@@ -73,7 +73,7 @@ export default class ToastView extends Overlay.View {
         <Image
           style={{width: Theme.toastIconWidth, height: Theme.toastIconHeight, tintColor: Theme.toastIconTintColor}}
           source={imageSource}
-          />
+        />
       );
     } else {
       image = icon;
@@ -106,7 +106,7 @@ export default class ToastView extends Overlay.View {
       alignItems: 'center',
     };
     return (
-      <View style={contentStyle}>
+      <View style={[contentStyle, this.props.style]}>
         {this.renderIcon()}
         {this.renderText()}
       </View>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb2aba4e-c74c-4992-be03-83e92d5a8a85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/example.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/teaset.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/teaset.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Carousel/Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Carousel/Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SearchInput/SearchInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/SearchInput/SearchInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Toast/ToastView.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Toast/ToastView.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1bZLQ4i9M32B0NIEtWpEHAptxD9" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v5.10.1/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb2aba4e-c74c-4992-be03-83e92d5a8a85" name="Default Changelist" comment="" />
+      <created>1588834649775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588834649775</updated>
+      <workItem from="1588834651535" duration="2746000" />
+      <workItem from="1588861397585" duration="21000" />
+      <workItem from="1588904297811" duration="508000" />
+      <workItem from="1589286642720" duration="347000" />
+      <workItem from="1589784564942" duration="72000" />
+      <workItem from="1591601352915" duration="3537000" />
+      <workItem from="1591609411146" duration="599000" />
+      <workItem from="1591619355441" duration="92000" />
+      <workItem from="1591666740663" duration="601000" />
+      <workItem from="1591758630247" duration="162000" />
+      <workItem from="1592533283245" duration="635000" />
+      <workItem from="1592533928221" duration="326000" />
+      <workItem from="1592912185647" duration="1097000" />
+      <workItem from="1592913410545" duration="613000" />
+      <workItem from="1592914595625" duration="27000" />
+      <workItem from="1593322977563" duration="1185000" />
+      <workItem from="1596855689243" duration="1000" />
+      <workItem from="1597320783446" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1526" height="272" key="GridCell.Tab.0.bottom" timestamp="1592914451260">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state width="1526" height="272" key="GridCell.Tab.0.bottom/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451260" />
+    <state width="1526" height="272" key="GridCell.Tab.0.center" timestamp="1592914451260">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state width="1526" height="272" key="GridCell.Tab.0.center/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451260" />
+    <state width="1526" height="272" key="GridCell.Tab.0.left" timestamp="1592914451259">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state width="1526" height="272" key="GridCell.Tab.0.left/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451259" />
+    <state width="1526" height="272" key="GridCell.Tab.0.right" timestamp="1592914451260">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state width="1526" height="272" key="GridCell.Tab.0.right/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451260" />
+    <state x="253" y="23" width="1315" height="875" key="find.popup" timestamp="1591605330574">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state x="253" y="23" width="1315" height="875" key="find.popup/45.23.1635.1027@45.23.1635.1027" timestamp="1591605330574" />
+    <state x="552" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1593330091561">
+      <screen x="46" y="23" width="1634" height="1027" />
+    </state>
+    <state x="551" y="250" width="671" height="676" key="search.everywhere.popup/45.23.1635.1027@45.23.1635.1027" timestamp="1592533932994" />
+    <state x="552" y="250" width="670" height="676" key="search.everywhere.popup/46.23.1634.1027@46.23.1634.1027" timestamp="1593330091561" />
+  </component>
+</project>
