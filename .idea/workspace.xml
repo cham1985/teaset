@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb2aba4e-c74c-4992-be03-83e92d5a8a85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ListRow/ListRow.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ListRow/ListRow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +37,11 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="/usr/local/lib/node_modules/standard" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v5.10.1/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -73,7 +77,15 @@
       <workItem from="1597320783446" duration="41000" />
       <workItem from="1597320891002" duration="116000" />
       <workItem from="1597321047879" duration="90000" />
-      <workItem from="1597736449451" duration="127000" />
+      <workItem from="1597736449451" duration="660000" />
+      <workItem from="1597738177090" duration="1165000" />
+      <workItem from="1599208004715" duration="1228000" />
+      <workItem from="1599210667620" duration="5000" />
+      <workItem from="1600948765408" duration="718000" />
+      <workItem from="1600998623507" duration="219000" />
+      <workItem from="1603076122236" duration="1032000" />
+      <workItem from="1603678839494" duration="136000" />
+      <workItem from="1603678983409" duration="1414000" />
     </task>
     <servers />
   </component>
@@ -81,30 +93,18 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1526" height="272" key="GridCell.Tab.0.bottom" timestamp="1592914451260">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state width="1526" height="272" key="GridCell.Tab.0.bottom/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451260" />
-    <state width="1526" height="272" key="GridCell.Tab.0.center" timestamp="1592914451260">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state width="1526" height="272" key="GridCell.Tab.0.center/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451260" />
-    <state width="1526" height="272" key="GridCell.Tab.0.left" timestamp="1592914451259">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state width="1526" height="272" key="GridCell.Tab.0.left/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451259" />
-    <state width="1526" height="272" key="GridCell.Tab.0.right" timestamp="1592914451260">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state width="1526" height="272" key="GridCell.Tab.0.right/45.23.1635.1027@45.23.1635.1027" timestamp="1592914451260" />
-    <state x="253" y="23" width="1315" height="875" key="find.popup" timestamp="1591605330574">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state x="253" y="23" width="1315" height="875" key="find.popup/45.23.1635.1027@45.23.1635.1027" timestamp="1591605330574" />
-    <state x="552" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1593330091561">
+    <state x="781" y="436" key="#ESLint" timestamp="1597738201140">
       <screen x="46" y="23" width="1634" height="1027" />
     </state>
-    <state x="551" y="250" width="671" height="676" key="search.everywhere.popup/45.23.1635.1027@45.23.1635.1027" timestamp="1592533932994" />
-    <state x="552" y="250" width="670" height="676" key="search.everywhere.popup/46.23.1634.1027@46.23.1634.1027" timestamp="1593330091561" />
+    <state x="781" y="436" key="#ESLint/46.23.1634.1027@46.23.1634.1027" timestamp="1597738201140" />
+    <state x="254" y="23" width="1315" height="875" key="find.popup" timestamp="1603678921261">
+      <screen x="46" y="23" width="1634" height="1027" />
+    </state>
+    <state x="254" y="23" width="1315" height="875" key="find.popup/46.23.1634.1027@46.23.1634.1027" timestamp="1603678921261" />
+    <state x="552" y="250" width="671" height="676" key="search.everywhere.popup" timestamp="1603678862908">
+      <screen x="46" y="23" width="1634" height="1027" />
+    </state>
+    <state x="552" y="250" width="671" height="676" key="search.everywhere.popup/46.23.1634.1027@46.23.1634.1027" timestamp="1603678862908" />
+    <state x="553" y="250" width="670" height="676" key="search.everywhere.popup/48.23.1632.1027@48.23.1632.1027" timestamp="1603076335158" />
   </component>
 </project>
