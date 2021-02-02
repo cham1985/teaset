@@ -53,7 +53,6 @@ var Teaset = {
   SearchInput,
   Badge,
   Popover,
-
   NavigationBar,
   ListRow,
   Carousel,
